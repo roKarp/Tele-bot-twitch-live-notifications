@@ -85,7 +85,7 @@ function inte() {
 
 // setInterval that checks makes sure that the application sends requests to check if a stream is live or not
 
-setInterval(inte, 6000);
+setInterval(inte, 30000);
 
 // simple /start function
 
